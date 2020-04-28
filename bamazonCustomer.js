@@ -44,7 +44,7 @@ function promptUserPurchase() {
 			message: 'How many do you need?',
 			validate: validateInput,
 			filter: Number
-		}
+		} 
 	]).then(function(input) {
 		// console.log('Customer has selected: \n    item_id = '  + input.item_id + '\n    quantity = ' + input.quantity);
 
