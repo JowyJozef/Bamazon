@@ -27,7 +27,7 @@ function validateInput(value) {
 
 // promptUserPurchase will prompt the user for the item/quantity they would like to purchase
 function promptUserPurchase() {
-	// console.log('___ENTER promptUserPurchase___');
+	// console.log('__ENTER promptUserPurchase__');
 
 	// Prompt the user to select an item
 	inquirer.prompt([
