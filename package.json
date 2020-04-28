@@ -1,0 +1,20 @@
+{
+  "name": "Bamazon",
+  "version": "1.0.0",
+  "description": "An Amazon-like CLI Storefront storefront with MySQL",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JowyJozef/Bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JowyJozef/Bamazon/issues"
+  },
+  "homepage": "https://github.com/JowyJozef/Bamazon#readme"
+}
